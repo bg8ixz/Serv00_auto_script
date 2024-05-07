@@ -31,8 +31,8 @@
 　　将脚本放到`domains`目录下你的 `Alist` 存储路径中，使用`chmod +x alist_freebsd_update.py`给`alist_freebsd_update.py`添加可执行权限。 
 　　然后自己到控制台创建一个定时任务。
 #### 运行效果图
-  ![没有Alist文件](ttps://cdn.linux.do/uploads/default/original/3X/1/f/1f5b378d086d1935cfaf3927c9fc6c33d531eeb7.jpeg)
-  ![已经是最新版](ttps://cdn.linux.do/uploads/default/original/3X/e/7/e72105ffe5f1ee572cca2ded4138472241553bdb.jpeg)
+  ![没有Alist文件](https://cdn.linux.do/uploads/default/original/3X/1/f/1f5b378d086d1935cfaf3927c9fc6c33d531eeb7.jpeg)
+  ![已经是最新版](https://cdn.linux.do/uploads/default/original/3X/e/7/e72105ffe5f1ee572cca2ded4138472241553bdb.jpeg)
   ![正常更新](https://cdn.linux.do/uploads/default/original/3X/f/5/f58f94d755825005eae30df9dce0ad1f0b661f43.jpeg)
   
 ## 参考来源
